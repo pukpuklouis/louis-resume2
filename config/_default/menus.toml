@@ -18,10 +18,10 @@
   url = "#projects"
   weight = 30
 
-# [[main]]
-#   name = "看看這是什麼"
-#   url = "landing/"
-#   weight = 40
+[[main]]
+  name = "看看這是什麼"
+  url = "landing/"
+  weight = 40
 
 # [[main]]
 #   name = "Publications"
