@@ -18,23 +18,34 @@ subtitle:
 feature:
 - description: 100%
   icon: photoshop
-  icon_pack: custom
+  icon_pack: "custom"
   name: Photoshop
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: illustrator
+  icon_pack: "custom"
+  name: illustrator
+- description: 90%
+  icon: fcpx
+  icon_pack: "custom"
+  name: Fianl cut Pro剪接
+- description: 60%
+  icon: Sketch
+  icon_pack: "custom"
+  name: 網站、APP UI設計
+- description: 100%
+  icon: keynote
+  icon_pack: "custom"
+  name: 簡報、PPT設計
+- description: 70%
+  icon: indesign
+  icon_pack: "custom"
+  name: 書籍封面、排版
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
 #  description: "100%"  
-
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
