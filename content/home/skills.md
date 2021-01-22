@@ -29,7 +29,7 @@ feature:
   icon_pack: "custom"
   name: Fianl cut Pro剪接
 - description: 60%
-  icon: Sketch
+  icon: sketch
   icon_pack: "custom"
   name: 網站、APP UI設計
 - description: 100%
