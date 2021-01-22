@@ -42,19 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:pukpuk.tw@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/pukpuklouis
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pukpuklouis
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/pukpuklouis/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +64,24 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "pukpuk.tw@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+我叫做Louis 陳杰駿 我從年輕就開始自學許多不同的事物。我喜歡親手實驗去實踐，在不同的領域當中去嘗試許多不同的
+挑戰。我自學英文、音樂製作、影像剪輯、拍攝影片、系統規劃、個人成長、靈性鍛鍊。
+透過學習不同領域的事物，我學會關於如何學習，將學習成為我的主要技能。
+我的工作經驗也協助到我學習許多有趣的事，但是在這段工作的期間我依然創造出許多有趣的成績。其中我近期的一份
+工作是培訓課程的即時口譯。我協助完成了超過100場訓練的中英即時口譯，我跟外籍導師同台協助同學突破在人生當中
+的困境及瓶頸。協助超過5000人的家庭及生活有所蛻變。
+另外一份工作是我在上海的工作經驗，在那裡我作為燈光影視器材的技術業務主管，我協助客戶及公司達成他們在電視
+轉播中所需要的影像播放設備的培訓及系統規劃，我結合我在大學時期的專業舞台燈光技術設計，在湖南衛視的節目“超
+級男聲“、以及2014年的跨年春晚當中擔任技術擔保。並協助許多北京衛視的節目配合燈光設計做了許多的技術指導的工
+作。
+並幫助公司完成多次的視聽燈光音響展的展場設計及執行。
+我很熱愛與人互動的工作，我也很熱愛銷售，對我來說每一次的銷售都是一個機會可以讓人有機會可以蛻變他們生命的
+機會。我也很熱愛傳遞新的概念及想法給人。而每一次的互動都可以成為改變人生的關鍵時刻。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
